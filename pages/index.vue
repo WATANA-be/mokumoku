@@ -17,11 +17,6 @@
 </template>
 
 <script>
-var name = prompt('名前を入力してください');
-document.write('ようこそ！'+name+'さん！');
-</script>
-
-<script>
 import About from '@/pages/about'
 import Experiences from '@/pages/experiences'
 import Skills from '@/pages/skills'
